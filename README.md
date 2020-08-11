@@ -1,2 +1,2 @@
 # Hello-World
-still a novice :)
+Hello
